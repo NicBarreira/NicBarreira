@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
  <br>
 
  
-[Snake animation](https://github.com/NicBarreira/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

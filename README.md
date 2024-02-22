@@ -4,8 +4,8 @@
 - 👋 Hi, I’m @NicBarreira
 - 👀 I am interested in learning to code professionally
 - 💞️ I’m looking to collaborate on with the GitHub community
-- 📓 I’m Studying industrial automation technician at SENAI institution.
-- 📫 How to reach me: nicode021@gmail.com
+- 📓 I’m Studying Computer Science at FSA
+- 📫 How to reach me: nbarreira252@gmail.com
 
 <!---
 NicBarreira/NicBarreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

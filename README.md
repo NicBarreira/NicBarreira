@@ -1,5 +1,5 @@
 - 👋 Hello! Welcome to my Github profile.
-- 🗣️ My name is NicBarreira and my nickname is "Barreira"!
+- 🗣️ My name is Nicolas Barreira and my nickname is "Barreira"!
 
 - 👋 Hi, I’m @NicBarreira
 - 👀 I am interested in learning to code professionally

@@ -1,10 +1,6 @@
 - 👋 Hello! Welcome to my Github profile.
-- 🗣️ My name is Nicolas Barreira and my nickname is "Barreira"!
-
-- 👋 Hi, I’m @NicBarreira
-- 👀 I am interested in learning to code professionally
-- 💞️ I’m looking to collaborate on with the GitHub community
-- 📓 I’m Studying Computer Science at FSA
+- 🗣️ My name is Nicolas Barreira Freitas!
+- 📓 I’m Studying Computer Science
 - 📫 How to reach me: nbarreira252@gmail.com
 
 <!---
